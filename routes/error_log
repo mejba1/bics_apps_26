@@ -1,0 +1,24 @@
+[14-May-2026 14:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/tagrhmhc/public_html/bics/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/routes/web.php on line 13
+[14-May-2026 14:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/tagrhmhc/public_html/bics/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/routes/api.php on line 17
+[14-May-2026 14:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/tagrhmhc/public_html/bics/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/routes/console.php on line 17
+[14-May-2026 14:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/tagrhmhc/public_html/bics/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/routes/channels.php on line 16
+[25-May-2026 21:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/tagrhmhc/public_html/bics/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/routes/web.php on line 13
+[25-May-2026 21:35:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/tagrhmhc/public_html/bics/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/routes/api.php on line 17

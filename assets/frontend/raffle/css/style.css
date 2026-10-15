@@ -1,0 +1,300 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: rgba(30, 203, 103, 0.19);
+}
+
+.bg-participant {
+	background: rgba(30, 203, 103, 0.19);
+}
+
+.raffle-header {
+	/*background: #2d2e2e;
+			background: -webkit-linear-gradient(to top, #22c1c3, #fdbb2d);
+			background: linear-gradient(to top, #000000, #78165d);*/
+	background: #1ecb67;
+	background: linear-gradient(to top right, #21c1bb, #1ecb67);
+
+}
+
+.raffle-header h2 {
+	/* font-family: "Tektur", sans-serif; */
+	font-weight: 700;
+	font-size: 40px;
+	color: #fff;
+}
+
+#showParticipantNumber {
+	font-family: 'Orbitron', sans-serif;
+	font-weight: 400;
+}
+
+.number-content {
+	background: rgba(30, 203, 103, 0.19);
+}
+
+.content-area {
+	background: #ffffef;
+	height:450px !important;
+}
+
+.number-show-area {
+	width: 100%;
+}
+
+/*--====Go-Design======--*/
+.btn-circle.btn-xl {
+	width: 300px;
+	height: 300px%;
+	padding: 13px 18px;
+	border-radius: 50%;
+	font-size: 150px;
+	text-align: center;
+}
+
+.animate-charcter {
+	text-transform: uppercase;
+	background-image: linear-gradient(-225deg,
+			#231557 0%,
+			#44107a 29%,
+			#ff1361 67%,
+			#fff800 100%);
+	background-size: auto auto;
+	background-clip: border-box;
+	background-size: 200% auto;
+	color: #fff;
+	background-clip: text;
+	text-fill-color: transparent;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	animation: textclip 2s linear infinite;
+	display: inline-block;
+	font-size: 190px;
+}
+
+@keyframes textclip {
+	to {
+		background-position: 200% center;
+	}
+}
+.bics-rfl-head{
+	background: #f6efef;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 10px;
+    margin-top: 6px;
+    border-radius: 10px 10px 0 0; /* Standard CSS syntax */
+    -moz-border-radius: 10px 10px 0 0; /* Firefox (Gecko) */
+    -webkit-border-radius: 10px 10px 0 0; /* WebKit (Safari, Chrome) */
+    -o-border-radius: 10px 10px 0 0; /* Opera */
+    -ms-border-radius: 10px 10px 0 0; /* Internet Explorer */
+}
+#profile-show {
+	/* background: #dce4df !important;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.16), 0 4px 10px rgba(0, 0, 0, 0.23); */
+	background: #e8f4ec9e !important;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.16), 0 4px 10px rgba(0, 0, 0, 0.23);
+}
+
+#congratulate {
+	font-weight: 700;
+	font-size: 35px;
+	text-shadow: 0px 9px 10px #a6d9ad;
+	letter-spacing: 0.02em;
+	text-align: center;
+	color: #ff0000;
+}
+
+.countdown-Start {
+	text-transform: uppercase;
+	background-image: linear-gradient(-225deg,
+			#231557 0%,
+			#44107a 29%,
+			#ff1361 67%,
+			#fff800 100%);
+	background-size: auto auto;
+	background-clip: border-box;
+	background-size: 200% auto;
+	color: #fff;
+	background-clip: text;
+	text-fill-color: transparent;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	animation: coundown 3s linear infinite;
+	display: inline-block;
+	font-size: 170px;
+}
+
+@keyframes coundown {
+	to {
+		background-position: 200% center;
+	}
+}
+
+.get-ready {
+	text-transform: uppercase;
+	background-image: linear-gradient(-250deg,
+			#231557 0%,
+			#44107a 29%,
+			#ff1361 50%,
+			#fff800 100%);
+	background-size: auto auto;
+	background-clip: border-box;
+	background-size: 200% auto;
+	color: #fff;
+	background-clip: text;
+	text-fill-color: transparent;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	animation: ready 6s linear infinite;
+	display: inline-block;
+	font-size: 50px;
+}
+
+@keyframes ready {
+	to {
+		background-position: 200% center;
+	}
+}
+
+/*--====Odometer-Design======--*/
+.winer-odometer,
+.start-animate-odometer {
+	font-size: 48px;
+	background: red;
+	color: white;
+	font-family: "Raleway", sans-serif;
+	font-weight: bold;
+	border-radius: 8px;
+	min-width: 300px;
+	text-align: center;
+	padding: 8px;
+	letter-spacing: 15px;
+}
+
+.odometer-formatting-mark1 {
+	margin-left: -10px;
+	margin-right: -10px;
+	color: red;
+}
+
+
+/*--=====Buble========--*/
+
+
+.bubbles{
+  position:absolute;
+  width:100%;
+  height: 100%;
+  z-index:0;
+  overflow:hidden;
+  top:0;
+  left:0;
+}
+.bubble{
+  position: absolute;
+  bottom:-100px;
+  width:40px;
+  height: 40px;
+  background:#f89d9d;
+  border-radius:50%;
+  opacity:0.5;
+  animation: rise 10s infinite ease-in;
+}
+.bubble:nth-child(1){
+  width:40px;
+  height:40px;
+  left:1%;
+  animation-duration:8s;
+}
+.bubble:nth-child(2){
+  width:20px;
+  height:20px;
+  left:50%;
+  animation-duration:5s;
+  animation-delay:1s;
+}
+.bubble:nth-child(3){
+  width:50px;
+  height:50px;
+  left:35%;
+  animation-duration:7s;
+  animation-delay:2s;
+}
+.bubble:nth-child(4){
+  width:80px;
+  height:80px;
+  left:50%;
+  animation-duration:11s;
+  animation-delay:0s;
+}
+.bubble:nth-child(5){
+  width:35px;
+  height:35px;
+  left:55%;
+  animation-duration:6s;
+  animation-delay:1s;
+}
+.bubble:nth-child(6){
+  width:45px;
+  height:45px;
+  left:65%;
+  animation-duration:8s;
+  animation-delay:3s;
+}
+.bubble:nth-child(7){
+  width:90px;
+  height:90px;
+  left:70%;
+  animation-duration:12s;
+  animation-delay:2s;
+}
+.bubble:nth-child(8){
+  width:25px;
+  height:25px;
+  left:80%;
+  animation-duration:6s;
+  animation-delay:2s;
+}
+.bubble:nth-child(9){
+  width:15px;
+  height:15px;
+  left:70%;
+  animation-duration:5s;
+  animation-delay:1s;
+}
+.bubble:nth-child(10){
+  width:90px;
+  height:90px;
+  left:25%;
+  animation-duration:10s;
+  animation-delay:4s;
+}
+@keyframes rise{
+  0%{
+    bottom:-100px;
+    transform:translateX(0);
+  }
+  50%{
+    transform:translate(100px);
+  }
+  100%{
+    bottom:1080px;
+    transform:translateX(-200px);
+  }
+}
+/*--====Confettii-Canvas===--*/
+#drawing_canvas {
+	position: absolute;
+	margin: auto;
+	width: 700px;
+	height: 500px;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}

@@ -1,0 +1,68 @@
+[18-Feb-2026 11:23:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[21-Feb-2026 09:18:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[23-Feb-2026 14:05:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[01-Mar-2026 06:16:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[01-Mar-2026 06:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[05-Mar-2026 08:43:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[05-Mar-2026 13:50:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[07-Mar-2026 14:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[07-Mar-2026 14:27:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[07-Mar-2026 16:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[07-Mar-2026 16:54:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[11-Mar-2026 21:10:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[12-Mar-2026 22:21:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[15-Mar-2026 23:22:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[21-Apr-2026 17:20:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[14-May-2026 14:14:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14
+[21-Jun-2026 09:58:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tagrhmhc/public_html/bics/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tagrhmhc/public_html/bics/bootstrap/app.php on line 14

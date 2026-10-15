@@ -1,0 +1,24 @@
+.gallery-title{
+    font-size: 30px;
+    color: #b32f6a;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.btn-default{
+    background: #0e4ca1 !important;
+    color: #fff !important;
+}
+.btn-default:active, .filter-button:active{
+    background-color: #290eb1;
+    color: white;
+}
+.port-image{
+    width: 100%;
+}
+.gallery_product{
+    margin-bottom: 30px;
+}
+
+.shadow-1-strong:hover, .image {
+    opacity: 0.3 !important;
+  }
